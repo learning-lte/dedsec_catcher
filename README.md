@@ -102,8 +102,11 @@ Open localhost or 127.0.0.1 in your favorite browser and use now.
 
 # Requirements
 linux operating system (kali linux)
-[rtl-sdr (RTL2832U)](https://osmocom.org/projects/sdr/wiki/rtl-sdr) with antenna
+rtl-sdr (RTL2832U) with antenna
 
+rtl-sdr device available on lazada:
+
+name of product: RTL-SDR Blog RTL SDR V3 R820T2 RTL2832U 1PPM TCXO SMA RTLSDR Software Receiver Defined Radio
 
 # Links 
 Frequency : https://www.worldtimezone.com/gsm.html or https://en.wikipedia.org/wiki/GSM_frequency_bands  
