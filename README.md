@@ -1,6 +1,6 @@
 
   <p align="center">
-    <img alt="DEDSEC SNIFFER TOOL" src="https://github.com/0xbitx/dedsec_catcher/img/logo.png" style="max-width:100%;max-height:100%;" />
+    <img alt="DEDSEC SNIFFER TOOL" src="https://github.com/0xbitx/dedsec_catcher/blob/main/img/logo.png" style="max-width:100%;max-height:100%;" />
   </p>
 
 **DEDSEC CATCHER** is python web based tool which use for capturing imsi numbers and sms and also you able to see sms and imsi on any device using your favorite browser and it's make easy to capture sms and imsi numbers for those who not have much knowledge about gsm packets capturing.
