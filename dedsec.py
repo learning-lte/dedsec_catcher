@@ -5,11 +5,6 @@ Disclaimer:-
 This program was made to understand how GSM network works. Not for bad hacking !
 We are not responsible for any illegal activity !
 
-About:-
-Author: sheryar (ninjhacks)
-Created on : 19/09/2019
-Program : GsmEvil
-Version : 2.0.0
 """
 
 import pyshark
