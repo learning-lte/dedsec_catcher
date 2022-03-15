@@ -121,5 +121,4 @@ GR-GSM : https://github.com/ptrkrysik/gr-gsm
 
 # Contact
 Email : 0xbit25125@gmail.com  
-Facebook : https://www.facebook.com/Oxbitsource-code-100394112048755
 Twitter : https://twitter.com/0xbit1
