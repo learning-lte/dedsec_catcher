@@ -118,3 +118,4 @@ GSM : https://en.wikipedia.org/wiki/GSM
 Frequency Calculator : https://www.cellmapper.net/arfcn  
 GR-GSM : https://github.com/ptrkrysik/gr-gsm 
 
+# this project is currently not maintained.
